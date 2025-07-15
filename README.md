@@ -50,7 +50,10 @@ Here are some ideas to get you started:
   <img align="left" alt="AE" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  
 
 <br>
+
 #
+
+dd
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr3i&layout=compact&theme=dark&hide=html,css)
 
 

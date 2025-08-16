@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 <h3> 💻 Software and Tools </h3>
 
-  <img align="left" alt="Scratch" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Scratchlogo.svg" />
-  <img align="left" alt="Scratch S" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scratch_S.svg" />
+  <img align="left" alt="Scratch Cat" width="60px" style="padding-right: 10px;" src="https://freesvg.org/vector-scratch-cat.svg" />
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />

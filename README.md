@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 **dozby@pc:~$** cat read-me.txt
 - I'm mostly self-taught in the skills I have and I'm still open to learning new things.

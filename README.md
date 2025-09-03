@@ -33,19 +33,23 @@ Here are some ideas to get you started:
 
 <h3> 💻 Software and Tools </h3>
 
-  <p align="center"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" alt="C" title="C" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" alt="C++" title="C++" /> 
+<p align="center"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" alt="C" title="C" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" alt="C++" title="C++" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" alt="Linux" title="Linux" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="36" alt="Neovim" title="Neovim" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="36" alt="Inkscape" title="Inkscape" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="36" alt="After Effects" title="After Effects" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="36" alt="Inkscape" title="Inkscape" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="36" alt="After Effects" title="After Effects" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="36" alt="Photoshop" title="Photoshop" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="36" alt="Blender" title="Blender" /> <br/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" title="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" alt="Python" title="Python" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" title="VS Code" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" alt="Python" title="Python" /> 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/22_Apple_logo_logos-512.png" width="36" alt="macOS" title="macOS" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" title="JavaScript" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" alt="HTML5" title="HTML5" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" alt="CSS3" title="CSS3" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="34" alt="Windows" title="Windows" /> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="34" alt="Windows" title="Windows" /> 
+</p>
 <sub>C · C++ · Linux · Neovim · Inkscape · After Effects · Photoshop · Blender · VS Code · Python · macOS · JavaScript · HTML5 · CSS3 · Windows</sub>
 
 <br>
